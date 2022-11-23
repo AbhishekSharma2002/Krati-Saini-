@@ -10,6 +10,7 @@ import Home from "./Components/Home";
 import Photos from "./Components/Photos";
 import Footer from "./Components/Footer";
 import Biography from "./Components/Biography";
+import Youtube from "./Components/Youtube";
 
 function App() {
   return (
@@ -28,6 +29,9 @@ function App() {
           </Route>
           <Route path="/Biography">
             <Biography/>
+          </Route>
+          <Route path="/Youtube">
+            <Youtube/>
           </Route>
         </Switch>
         <Footer/>

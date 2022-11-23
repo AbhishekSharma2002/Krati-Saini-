@@ -17,7 +17,7 @@ export default function Navbar() {
                         <p className='hover:text-blue-600 cursor-pointer'><Link to="Reels">Reels |</Link></p>
                         <p className='hover:text-blue-600 cursor-pointer'><Link to="Photos">Photos |</Link></p>
                         <p className='hover:text-blue-600 cursor-pointer'><Link to="Biography">Biography |</Link></p>
-                        <p className='hover:text-blue-600 cursor-pointer'>fans |</p>
+                        <p className='hover:text-blue-600 cursor-pointer'><Link to="Youtube">Youtube chennal |</Link></p>
                         <p className='hover:text-blue-600 cursor-pointer'>Creater Info</p>
                     </div>
                 </div>

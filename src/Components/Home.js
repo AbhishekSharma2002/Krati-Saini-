@@ -7,7 +7,7 @@ export default function () {
     return (
         <>
             <div  style={{
-                backgroundImage: `url(${Background})`, backgroundRepeat: 'no-repeat', width: '100%', height: '650px'
+                backgroundImage: `url(${Background})`, backgroundRepeat: 'no-repeat', width: '100%', height: '550px'
             }}>
                 <div className='ml-8 flex'>
                     <img className='rounded-2xl shadow-xl shadow-purple-700 w-80 h-96' src={krati} alt=''></img>
